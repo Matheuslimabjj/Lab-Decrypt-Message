@@ -1,7 +1,7 @@
 # Lab: Decrypt an Encrypted Message
 
 ## 🛡️ Visão Geral
-Este laboratório faz parte da minha jornada na área de segurança cibernética. Nele, utilizamos **criptografia** e comandos do **Linux Bash** para descriptografar arquivos protegidos.
+Ao longo do curso de Cibersegurança do Google via Coursera, tive a oportunidade de participar de um laboratório prático fascinante! O objetivo era descriptografar mensagens ocultas em um sistema Linux e recuperar arquivos que estavam protegidos por cifragem avançada. Este laboratório faz parte da minha jornada na área de segurança cibernética. Nele, utilizamos **criptografia** e comandos do **Linux Bash** para descriptografar arquivos protegidos.
 
 ## 🚀 Tecnologias Utilizadas
 - **Criptografia AES-256-CBC** para proteção de arquivos.
